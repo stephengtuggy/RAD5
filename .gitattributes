@@ -1,0 +1,5 @@
+.git*   eol=lf
+LICENSE eol=lf
+*.md    eol=lf
+*.js    eol=lf
+
